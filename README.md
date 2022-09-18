@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Changes
+-> changed ui to make it user friendly . 
+: changed the position of profile and profile info to the right of the page and the repo cards and info about repo to the left side of the web page. 
+: changed the pagination buttons . only made changes in the display of buttons and the functionality remain intact.
+
+
+
